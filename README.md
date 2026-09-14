@@ -62,7 +62,7 @@ Whether you are looking for developer-friendly payment gateway APIs (like Stripe
 > **Open-Source Payment Infrastructure**  
 > Self-hosted payment orchestrators, billing systems, and payment server modules offer control over card vaulting, multi-processor routing, fee minimization (e.g., crypto/Lightning), and data sovereignty.
 
-| Project / Repository | Stars | Description | Core Use Cases |
+| Project / Repository | Github_Stars | Description | Core Use Cases |
 | :--- | :--- | :--- | :--- |
 | **[juspay/hyperswitch](https://github.com/juspay/hyperswitch)** | [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | High-performance, open-source payment orchestration layer written in Rust. Connects to 100+ payment processors via a single unified API. | Smart routing, payment vaulting, checkout UI, processor fallback, fee optimization |
 | **[getlago/lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Open-source metering and usage-based billing architecture. Serves as an open alternative to Stripe Billing and Chargebee. | Usage-based pricing, subscription billing, metering, invoicing, customer portal |
